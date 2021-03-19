@@ -83,7 +83,7 @@
 <script src='js/three.min.js'></script>
 <script src="js/index.js"></script>
 <div style="text-align:center;">
-<p>回到<a href="http://www.cdreply.top/" >沉淀答复</a></p>
+
 </div>
 </body>
 </html>
